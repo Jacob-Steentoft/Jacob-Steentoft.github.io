@@ -1,5 +1,6 @@
 ---
 layout: post
-title:  "Interfacing programmactically with Microsoft 365 and other Microsoft services"
+title:  "Best PowerShell method for interfacing with Microsoft services"
 tags: 
 ---
+
